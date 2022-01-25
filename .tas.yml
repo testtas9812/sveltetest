@@ -1,5 +1,4 @@
 framework: mocha
-tier: large
 postMerge:
   pattern: 
     - "test/test.ts"
